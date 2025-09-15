@@ -21,7 +21,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
   </a>
 </p>
-
-<p style="margin-top: 20px;" align="left">
-  <img src="https://komarev.com/ghpvc/?username=lykostr&label=Profile%20views&color=0e75b6&style=flat" alt="lykostr" />
-</p>
