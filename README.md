@@ -3,4 +3,5 @@
 
 <h1 align="center">Lykos</h1>
 
-- **Merhaba**
+
+[SeconHead](https://i.pinimg.com/1200x/36/cb/be/36cbbe9dbc6884abed3d7d17413b9f81.jpg)
