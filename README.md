@@ -3,4 +3,4 @@
 
 <h1 align="center">Lykos</h1>
 
-- **𐱅𐰇𐰼𐰚**
+- **Merhaba**
